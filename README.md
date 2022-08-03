@@ -1,2 +1,4 @@
-# ITMO
-All the code that I wrote when I studied at ITMO University.
+![ITMO_logo](http://mathdep.ifmo.ru/mcqtn2015/logos.png)
+
+## About
+The repository stores my code from the track under the Information Security program.
